@@ -1,6 +1,6 @@
 
 # MODULO 1 - SESION 2
-### REBOUND EXERCISE
+### DRILLING
 
 Drilling de la Sesion 2 del Módulo 2.
 
