@@ -1,6 +1,6 @@
 
-# MODULO 1 - SESION 2
-### DRILLING
+# MODULO 2 - SESION 2
+### Drilling
 
 Drilling de la Sesión 2 del Módulo 2.
 
